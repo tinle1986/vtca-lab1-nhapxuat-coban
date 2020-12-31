@@ -9,7 +9,7 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
 
 		System.out.println("STT\tHo ten\t\t\tN.sinh\tG.tinh\tC.cao\tC.nang\tQue quan\t\t\tC.nganh\t\tDTB");
-		System.out.println("================================================================================================");
+		System.out.println("=======================================================================================");
 		System.out.print("1\t");
 		System.out.print("Nguyen Van A\t");
 		System.out.print("1998\t");
