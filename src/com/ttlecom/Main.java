@@ -8,38 +8,7 @@ public class Main {
 		// write your code here
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("STT\tHo ten\t\t\tN.sinh\tG.tinh\tC.cao\tC.nang\tQue quan\t\t\tC.nganh\t\tDTB");
-		System.out.println("=======================================================================================");
-		System.out.print("1\t");
-		System.out.print("Nguyen Van A\t");
-		System.out.print("1998\t");
-		System.out.print("F\t\t");
-		System.out.print("1.64\t");
-		System.out.print("85.3\t");
-		System.out.print("Ho Chi Minh\t\t\t");
-		System.out.print("CNTT\t\t");
-		System.out.println("8.5");
-
-		System.out.print("1\t");
-		System.out.print("Nguyen Van A\t");
-		System.out.print("1998\t");
-		System.out.print("F\t\t");
-		System.out.print("1.64\t");
-		System.out.print("85.3\t");
-		System.out.print("Ho Chi Minh\t\t\t");
-		System.out.print("CNTT\t\t");
-		System.out.println("8.5");
-
-		System.out.print("1\t");
-		System.out.print("Nguyen Van A\t");
-		System.out.print("1998\t");
-		System.out.print("F\t\t");
-		System.out.print("1.64\t");
-		System.out.print("85.3\t");
-		System.out.print("Ho Chi Minh\t\t\t");
-		System.out.print("CNTT\t\t");
-		System.out.println("8.5");
-
+		// Input the cadidates' information
 		System.out.println("***Moi nhap ung vien so 1:");
 		System.out.println("\t+Nhap ho ten:");
 		String ten1 = scanner.nextLine();
@@ -126,5 +95,38 @@ public class Main {
 		System.out.println("+Que quan: " + queQuan3);
 		System.out.println("+Chuyen nganh: " + chuyenNganh3);
 		System.out.println("+Diem TB: " + dtb3);
+
+		// Show the candidate table
+		System.out.println("STT\tHo ten\t\t\tN.sinh\tG.tinh\tC.cao\tC.nang\tQue quan\t\t\tC.nganh\t\tDTB");
+		System.out.println("=======================================================================================");
+		System.out.print("1\t");
+		System.out.print("Nguyen Van A\t");
+		System.out.print("1998\t");
+		System.out.print("F\t\t");
+		System.out.print("1.64\t");
+		System.out.print("85.3\t");
+		System.out.print("Ho Chi Minh\t\t\t");
+		System.out.print("CNTT\t\t");
+		System.out.println("8.5");
+
+		System.out.print("1\t");
+		System.out.print("Nguyen Van A\t");
+		System.out.print("1998\t");
+		System.out.print("F\t\t");
+		System.out.print("1.64\t");
+		System.out.print("85.3\t");
+		System.out.print("Ho Chi Minh\t\t\t");
+		System.out.print("CNTT\t\t");
+		System.out.println("8.5");
+
+		System.out.print("1\t");
+		System.out.print("Nguyen Van A\t");
+		System.out.print("1998\t");
+		System.out.print("F\t\t");
+		System.out.print("1.64\t");
+		System.out.print("85.3\t");
+		System.out.print("Ho Chi Minh\t\t\t");
+		System.out.print("CNTT\t\t");
+		System.out.println("8.5");
 	}
 }
